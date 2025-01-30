@@ -1,0 +1,1 @@
+This is a project that trains a FCC-GAN on FFHQ dataset to generate human face.
